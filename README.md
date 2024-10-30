@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Bhanupriya Gupta</h1>
+<h3 align="center">A Final Year Undergraduate Student at IIT Kharagpur</h3>
+
+# 💫 About Me:
+Final Year Aerospace Engineering Student at IIT Kharagpur | 
+Contact me : bhanupriya0421@gmail.com
+
