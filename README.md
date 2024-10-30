@@ -67,6 +67,6 @@
 
 ###
 
-[![@bhanupgpt's Holopin board](https://holopin.io/api/user/board?user=bhanupgpt)](https://holopin.io/@bhanupgpt)
+[![An image of @bhanupgpt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhanupgpt)](https://holopin.io/@bhanupgpt)
 
 ###
