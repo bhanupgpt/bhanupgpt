@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Bhanupriya Gupta </h2>
-<h3 align="center">Undergraduate Student at IIT Kharagpur</h3>
+<!-- <h3 align="center">Undergraduate Student at IIT Kharagpur</h3> -->
 
 
 <div align="left">
